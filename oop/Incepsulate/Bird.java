@@ -1,4 +1,4 @@
-package oop;
+package oop.Incepsulate;
 
 public class Bird {
     private String name;

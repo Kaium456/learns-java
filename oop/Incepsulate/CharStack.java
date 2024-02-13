@@ -1,4 +1,5 @@
-package oop;
+package oop.Incepsulate;
+
 import java.util.Arrays;
 
 public class CharStack {

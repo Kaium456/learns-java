@@ -1,4 +1,4 @@
-package oop;
+package oop.Incepsulate;
 
 public class Random {
     static final int P1 = 32719; // a prime number
